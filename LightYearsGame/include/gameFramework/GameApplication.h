@@ -1,5 +1,5 @@
 #pragma once
-#include <framework/Application.h>
+#include <framework/application.h>
 
 namespace ly
 {
