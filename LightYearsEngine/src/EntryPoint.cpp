@@ -2,7 +2,7 @@
 #include "framework/application.h"
 int main()
 {
-	ly::Aplication* app = GetApplication();
+	ly::Application* app = GetApplication();
 
 	app->Run();
 	delete app;

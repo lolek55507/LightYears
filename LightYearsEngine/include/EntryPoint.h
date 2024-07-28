@@ -3,8 +3,8 @@
 
 namespace ly
 {
-	class Aplication;
+	class Application;
 	
 }
 
-extern ly::Aplication* GetApplication();
+extern ly::Application* GetApplication();
